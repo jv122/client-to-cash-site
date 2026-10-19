@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jv122.github.io/client-to-cash-site/sitemap.xml
